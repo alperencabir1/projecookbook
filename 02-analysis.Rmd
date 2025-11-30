@@ -1,0 +1,17 @@
+# Veri Analizi Örneği
+
+Bu bölümde basit bir analiz gösterilmektedir.
+
+## Örnek Kod
+
+```{r}
+set.seed(123)
+veri <- rnorm(100)
+summary(veri)
+```
+
+## Histogram
+
+```{r}
+hist(veri, main = "Örnek Histogram", xlab = "Değerler")
+```

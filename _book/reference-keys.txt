@@ -1,0 +1,7 @@
+hoş-geldiniz
+r-markdown-nedir
+neden-r-markdown
+nasıl-çalışır
+veri-analizi-örneği
+örnek-kod
+histogram

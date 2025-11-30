@@ -1,0 +1,32 @@
+# R Markdown Nedir?
+
+R Markdown, hem yazı hem kodu bir arada kullanmamızı sağlayan bir döküman formatıdır.
+R Markdown belgeleri;
+
+- HTML
+- PDF
+- Word
+- Sunum
+- Kitap
+- Blog
+- Website
+
+gibi birçok çıktı formatına dönüştürülebilir.
+
+## Neden R Markdown?
+
+- Kod ve metin aynı dosyada
+- Tek tuşla rapor üretme
+- Tekrar üretilebilir (reproducible) analiz
+- Kolay paylaşım
+
+## Nasıl Çalışır?
+
+Aşağıdaki gibi kod blokları yazarsınız:
+
+```{r}
+x <- 1:10
+mean(x)
+```
+
+Bookdown kullanırken her `Rmd` dosyası bir bölüm (chapter) anlamına gelir.

@@ -1,0 +1,25 @@
+---
+title: "R Markdown Cookbook - Kendi Versiyonum"
+author: "Alperen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook:
+    css: style.css
+---
+
+# Hoş Geldiniz
+
+Bu doküman, kendi R Markdown Cookbook kitabımın birebir mantığını açıklamak için hazırlanmıştır.
+
+Burada;
+- R Markdown temelleri
+- Kodu nasıl çalıştıracağınız
+- Bookdown proje yapısı
+- Sayfaların bölümlere ayrılması
+- Stil ve tasarım ekleme
+gibi birçok konuyu öğreneceksiniz.
+
+Bu kitap **tamamen benim tarafımdan**, bookdown sistemini kullanarak oluşturulmuştur.  
+Aşağıdaki bölümlere giderek kitabı gezebilirsiniz. 
